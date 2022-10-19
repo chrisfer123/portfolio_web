@@ -57,6 +57,7 @@ img{
 }
 
 footer{
+    margin-top: 2rem;
     text-align: center;
 }
 
@@ -76,5 +77,18 @@ button a {
     color: black;
 }
 
+#game{
+    height: 40vh;
+    background: aquamarine;
+}
+
+#ball{
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    background: tomato;
+    position: relative;
+    transition-duration: 5s ease-in;
+}
 
 
