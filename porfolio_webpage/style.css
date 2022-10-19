@@ -1,0 +1,29 @@
+h1,h2{
+    font-family: monospace;
+}
+h1{
+    font-size: 40px;
+}
+h2{
+    font-size: 30px;
+}
+body{
+    font-family: cursive;
+    font-size: 20px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+}
+nav ul{
+    margin-top: 30px;
+    display: flex;
+    list-style: none;
+}
+
+.header_item a {
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+    padding: 0 20px;
+}
