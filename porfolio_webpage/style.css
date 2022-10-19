@@ -56,4 +56,25 @@ img{
     padding: 0 2rem;
 }
 
+footer{
+    text-align: center;
+}
+
+footer div {
+    padding: 0 3rem 20px;
+}
+
+button{
+    margin: 1rem 4rem;
+    font-size: .8rem;
+    padding: 1rem;
+    border-radius: 30px;
+    border: none;
+}
+button a {
+    text-decoration: none;
+    color: black;
+}
+
+
 
