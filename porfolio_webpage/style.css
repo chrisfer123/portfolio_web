@@ -27,3 +27,19 @@ nav ul{
     cursor: pointer;
     padding: 0 20px;
 }
+
+.container{
+    display: flex;
+    margin-top: 30px;
+}
+.container hr {
+    width: 30%;
+}
+.aboutme h2{
+    margin: 0%;
+}
+img{
+    border-radius: 40px;
+    margin-left: 20px;
+}
+
