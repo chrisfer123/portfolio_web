@@ -43,3 +43,17 @@ img{
     margin-left: 20px;
 }
 
+.projectlist li {
+    list-style-type: georgian;
+    margin-left: 20px;
+}
+
+.skill {
+    display: flex;
+}
+.fa-brands{
+    font-size: 4rem;
+    padding: 0 2rem;
+}
+
+
